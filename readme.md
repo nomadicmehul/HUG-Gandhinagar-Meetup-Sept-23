@@ -32,8 +32,7 @@ In this event, we will cover the following topics:
 
 * **Title**: Terraform 101 : Getting started with IaC
 
-* **Link to Register**: [https://www.meetup.com/gandhinagar-hashicorp-user-group/events/295382971/](https://www.meetup.com/gandhinagar-hashicorp-user-group/events/295382971/)
-
+#### **Link to [Register](https://www.meetup.com/gandhinagar-hashicorp-user-group/events/295382971/)**
 
 * ##### [Vagrant](https://github.com/oscf-io/CloudCaptain/tree/main/Vagrant)
 
