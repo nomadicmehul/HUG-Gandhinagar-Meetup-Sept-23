@@ -8,10 +8,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@Mehul%20Patel-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nomadicmehul)](https://medium.com/@nomadicmehul)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCsbKUys6gsLn0lQbkIshIIQ)
 
-
-### Talk Details 
-
-#### Speaker : [Mehul Patel](https://twitter.com/NomadicMehul)
+### Meetup/Event Details 
 
 * **Event Name**: [HashiCorp 101: Launch Event](https://www.meetup.com/gandhinagar-hashicorp-user-group/events/295382971/)
 * **Abstract**: 📝 Join us for the inaugural HashiCorp meetup Gandhinagar, where we will introduce you to the awesome products and services provided by HashiCorp.
