@@ -1,4 +1,4 @@
-![HUG Gandhinagar Meetup Sept'23](./Images/event-cover.jpeg)
+![HUG Gandhinagar Meetup Sept'23](./Images/event-cover.png)
 
 [![](https://img.shields.io/badge/Mehul-Patel-brightgreen.svg?colorB=00ff00)](https://www.nomadicmehul.com)
 [![GitHub Mehul Patel](https://img.shields.io/github/followers/nomadicmehul?label=follow&style=social)](https://github.com/nomadicmehul)
